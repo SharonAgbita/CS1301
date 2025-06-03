@@ -1,7 +1,7 @@
 /*
  * NetPay.java
  * Author:  Sharon Agbita 
- * Submission Date:  [Submission date here]
+ * Submission Date: 01/20/2024
  *
  * Purpose: My program computes taxes and pay. It allows for a user to input the number of hours they 
  * worked per week and gives them their gross pay, net pay, and deductions from the hours given. My program
