@@ -1,10 +1,9 @@
 /*
  * GradeCalculator.java
  * Author: Sharon Agbita 
- * Submission Date: 
+ * Submission Date: 02/21/2025
  *
- * Purpose: A brief paragraph description of the
- * program. What does it do?
+ * Purpose: This code helps the user calculate their desired grade based on their percentage weights and scores.
  *
  * Statement of Academic Honesty:
  *
